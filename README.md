@@ -19,3 +19,6 @@ $ python file_name.py
 1. [a_simple_heuristic.py](https://github.com/xRahn/Intro-to-Data-Science/blob/master/problem_set_1/a_simple_heuristic.py) [titanic_data.csv](https://github.com/xRahn/Intro-to-Data-Science/blob/master/problem_set_1/titanic_data.csv)
 2. [a_more_complex_heuristic.py](https://github.com/xRahn/Intro-to-Data-Science/blob/master/problem_set_1/a_more_complex_heuristic.py) [titanic_data.csv](https://github.com/xRahn/Intro-to-Data-Science/blob/master/problem_set_1/titanic_data.csv)
 3. [your_custom_heuristic.py](https://github.com/xRahn/Intro-to-Data-Science/blob/master/problem_set_1/your_custom_heuristic.py) [titanic_data.csv](https://github.com/xRahn/Intro-to-Data-Science/blob/master/problem_set_1/titanic_data.csv)
+
+###Lesson 2
+1. [csv_exercise.py](https://github.com/xRahn/Intro-to-Data-Science/blob/master/lesson_2/csv_exercise.py) [Master.csv](https://github.com/xRahn/Intro-to-Data-Science/blob/master/lesson_2/Master.csv)
