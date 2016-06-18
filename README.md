@@ -11,3 +11,4 @@ $ python file_name.py
 2. [pandas_playground_series.py](https://github.com/xRahn/Intro-to-Data-Science/blob/master/lesson_1/pandas_playground_series.py)
 3. [pandas_playground_dataframe.py](https://github.com/xRahn/Intro-to-Data-Science/blob/master/lesson_1/pandas_playground_dataframe.py)
 4. [create_a_dataframe.py](https://github.com/xRahn/Intro-to-Data-Science/blob/master/lesson_1/create_a_dataframe.py)
+5. [pandas_playground_indexing_dataframe.py](https://github.com/xRahn/Intro-to-Data-Science/blob/master/lesson_1/pandas_playground_indexing_dataframe.py)
