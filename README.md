@@ -14,3 +14,6 @@ $ python file_name.py
 5. [pandas_playground_indexing_dataframe.py](https://github.com/xRahn/Intro-to-Data-Science/blob/master/lesson_1/pandas_playground_indexing_dataframe.py)
 6. [average_bronze_medals.py](https://github.com/xRahn/Intro-to-Data-Science/blob/master/lesson_1/average_bronze_medals.py)
 7. [olympics_medal_points.py](https://github.com/xRahn/Intro-to-Data-Science/blob/master/lesson_1/olympics_medal_points.py)
+
+###Problem Set 1
+1. [a_simple_heuristic.py](https://github.com/xRahn/Intro-to-Data-Science/blob/master/problem_set_1/a_simple_heuristic.py) [titanic_data.csv](https://github.com/xRahn/Intro-to-Data-Science/blob/master/problem_set_1/titanic_data.csv)
