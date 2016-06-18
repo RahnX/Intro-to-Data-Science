@@ -8,3 +8,4 @@ $ python file_name.py
 
 ###Lesson 1
 1. [numpy_playground.py](https://github.com/xRahn/Intro-to-Data-Science/blob/master/lesson_1/numpy_playground.py)
+2. [pandas_playground_series.py](https://github.com/xRahn/Intro-to-Data-Science/blob/master/lesson_1/pandas_playground_series.py)
