@@ -12,3 +12,4 @@ $ python file_name.py
 3. [pandas_playground_dataframe.py](https://github.com/xRahn/Intro-to-Data-Science/blob/master/lesson_1/pandas_playground_dataframe.py)
 4. [create_a_dataframe.py](https://github.com/xRahn/Intro-to-Data-Science/blob/master/lesson_1/create_a_dataframe.py)
 5. [pandas_playground_indexing_dataframe.py](https://github.com/xRahn/Intro-to-Data-Science/blob/master/lesson_1/pandas_playground_indexing_dataframe.py)
+6. [average_bronze_medals.py](https://github.com/xRahn/Intro-to-Data-Science/blob/master/lesson_1/average_bronze_medals.py)
