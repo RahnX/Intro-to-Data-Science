@@ -17,3 +17,4 @@ $ python file_name.py
 
 ###Problem Set 1
 1. [a_simple_heuristic.py](https://github.com/xRahn/Intro-to-Data-Science/blob/master/problem_set_1/a_simple_heuristic.py) [titanic_data.csv](https://github.com/xRahn/Intro-to-Data-Science/blob/master/problem_set_1/titanic_data.csv)
+2. [a_more_complex_heuristic.py](https://github.com/xRahn/Intro-to-Data-Science/blob/master/problem_set_1/a_more_complex_heuristic.py) [titanic_data.csv](https://github.com/xRahn/Intro-to-Data-Science/blob/master/problem_set_1/titanic_data.csv)
