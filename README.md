@@ -37,3 +37,4 @@ $ python file_name.py
 7. [filtering_irregular_data.py](https://github.com/xRahn/Intro-to-Data-Science/blob/master/problem_set_2/filtering_irregular_data.py) [turnstile_data.csv](https://github.com/xRahn/Intro-to-Data-Science/blob/master/problem_set_2/turnstile_data.csv)
 8. [get_hourly_entries.py](https://github.com/xRahn/Intro-to-Data-Science/blob/master/problem_set_2/get_hourly_entries.py) [turnstile_data.csv](https://github.com/xRahn/Intro-to-Data-Science/blob/master/problem_set_2/turnstile_data.csv)
 9. [get_hourly_exits.py](https://github.com/xRahn/Intro-to-Data-Science/blob/master/problem_set_2/get_hourly_exits.py) [turnstile_data.csv](https://github.com/xRahn/Intro-to-Data-Science/blob/master/problem_set_2/turnstile_data.csv)
+10. [time_to_hour.py](https://github.com/xRahn/Intro-to-Data-Science/blob/master/problem_set_2/time_to_hour.py)
