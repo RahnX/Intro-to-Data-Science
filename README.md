@@ -26,3 +26,6 @@ $ python file_name.py
 3. [write_your_own_complex_query.py](https://github.com/xRahn/Intro-to-Data-Science/blob/master/lesson_2/write_your_own_complex_query.py) [aadhaar_data.csv](https://github.com/xRahn/Intro-to-Data-Science/blob/master/lesson_2/aadhaar_data.csv)
 4. [api_exercise.py](https://github.com/xRahn/Intro-to-Data-Science/blob/master/lesson_2/api_exercise.py) 
 5. [imputation_exercise.py](https://github.com/xRahn/Intro-to-Data-Science/blob/master/lesson_2/imputation_exercise.py) [Master.csv](https://github.com/xRahn/Intro-to-Data-Science/blob/master/lesson_2/Master.csv)
+
+###Problem Set 2
+1. [number_of_rainy_days.py](https://github.com/xRahn/Intro-to-Data-Science/blob/master/problem_set_2/number_of_rainy_days.py) [weather_underground.csv](https://github.com/xRahn/Intro-to-Data-Science/blob/master/problem_set_2/weather_underground.csv)
