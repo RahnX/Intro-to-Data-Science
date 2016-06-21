@@ -36,7 +36,8 @@ def fix_turnstile_data(filenames):
 	'''
 	for name in filenames:
 		f_in  = open(name, "r")
-		f_out = open("updated_"+name, "w")
+		updated_file = "updated_"+name
+		f_out = open(updated_file, "w")
 		reader_in  = csv.reader(f_in, delimiter=",")
 
 		for para in reader_in:
@@ -48,7 +49,7 @@ def fix_turnstile_data(filenames):
 				f_out.write(written_line+"\n")
 				para = para[5:]
 
-		print "Fixing done!"
+		print "New turnstile dumped to", updated_file
 
 if __name__ == '__main__':
 	fix_turnstile_data(["turnstile_110528.txt"])
