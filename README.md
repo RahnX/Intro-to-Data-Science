@@ -29,3 +29,4 @@ $ python file_name.py
 
 ###Problem Set 2
 1. [number_of_rainy_days.py](https://github.com/xRahn/Intro-to-Data-Science/blob/master/problem_set_2/number_of_rainy_days.py) [weather_underground.csv](https://github.com/xRahn/Intro-to-Data-Science/blob/master/problem_set_2/weather_underground.csv)
+2. [temp_on_foggy_and_nonfoggy_days.py](https://github.com/xRahn/Intro-to-Data-Science/blob/master/problem_set_2/temp_on_foggy_and_nonfoggy_days.py) [weather_underground.csv](https://github.com/xRahn/Intro-to-Data-Science/blob/master/problem_set_2/weather_underground.csv)
