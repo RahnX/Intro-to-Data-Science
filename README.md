@@ -43,3 +43,4 @@ $ python file_name.py
 ###Lesson 3
 1. [calculating_t_and_nu.py](https://github.com/xRahn/Intro-to-Data-Science/blob/master/lesson_3/calculating_t_and_nu.py)
 2. [welchs_t_test_exercise.py](https://github.com/xRahn/Intro-to-Data-Science/blob/master/lesson_3/welchs_t_test_exercise.py) [baseball_stats.csv](https://github.com/xRahn/Intro-to-Data-Science/blob/master/lesson_3/baseball_stats.csv)
+3. [gradient_descent_in_python.py](https://github.com/xRahn/Intro-to-Data-Science/blob/master/lesson_3/gradient_descent_in_python.py)
