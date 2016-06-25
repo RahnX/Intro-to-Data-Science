@@ -45,3 +45,6 @@ $ python file_name.py
 2. [welchs_t_test_exercise.py](https://github.com/RahnX/Intro-to-Data-Science/blob/master/lesson_3/welchs_t_test_exercise.py) [baseball_stats.csv](https://github.com/RahnX/Intro-to-Data-Science/blob/master/lesson_3/baseball_stats.csv)
 3. [gradient_descent_in_python.py](https://github.com/RahnX/Intro-to-Data-Science/blob/master/lesson_3/gradient_descent_in_python.py)
 4. [calculating_r_squared.py](https://github.com/RahnX/Intro-to-Data-Science/blob/master/lesson_3/calculating_r_squared.py)
+
+###Problem Set 3
+1. [exploratory_data_analysis.py](https://github.com/RahnX/Intro-to-Data-Science/blob/master/problem_set_3/exploratory_data_analysis.py) [turnstile_data_master_with_weather.csv](https://github.com/RahnX/Intro-to-Data-Science/blob/master/problem_set_3/turnstile_data_master_with_weather.csv)
