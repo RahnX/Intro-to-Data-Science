@@ -49,3 +49,4 @@ $ python file_name.py
 ###Problem Set 3
 1. [exploratory_data_analysis.py](https://github.com/RahnX/Intro-to-Data-Science/blob/master/problem_set_3/exploratory_data_analysis.py) [turnstile_data_master_with_weather.csv](https://github.com/RahnX/Intro-to-Data-Science/blob/master/problem_set_3/turnstile_data_master_with_weather.csv)
 2. [mann_whitney_u_test.py](https://github.com/RahnX/Intro-to-Data-Science/blob/master/problem_set_3/mann_whitney_u_test.py) [turnstile_data_master_with_weather.csv](https://github.com/RahnX/Intro-to-Data-Science/blob/master/problem_set_3/turnstile_data_master_with_weather.csv)
+3. [linear_regression.py](https://github.com/RahnX/Intro-to-Data-Science/blob/master/problem_set_3/linear_regression.py) [turnstile_data_master_with_weather.csv](https://github.com/RahnX/Intro-to-Data-Science/blob/master/problem_set_3/turnstile_data_master_with_weather.csv)
