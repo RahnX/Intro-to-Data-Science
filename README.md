@@ -55,3 +55,4 @@ $ python file_name.py
 
 ###Lesson 4
 1. [plotting_in_python.py](https://github.com/RahnX/Intro-to-Data-Science/blob/master/lesson_4/plotting_in_python.py) [hr_year.csv](https://github.com/RahnX/Intro-to-Data-Science/blob/master/lesson_4/hr_year.csv)
+2. [plotting_line_charts.py](https://github.com/RahnX/Intro-to-Data-Science/blob/master/lesson_4/plotting_line_charts.py) [hr_by_team_year_sf_la.csv](https://github.com/RahnX/Intro-to-Data-Science/blob/master/lesson_4/hr_by_team_year_sf_la.csv)
