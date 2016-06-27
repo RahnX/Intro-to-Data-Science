@@ -59,3 +59,4 @@ $ python file_name.py
 
 ###Problem Set 4
 1. [visualization_1.py](https://github.com/RahnX/Intro-to-Data-Science/blob/master/problem_set_4/visualization_1.py) [turnstile_data_master_with_weather.csv](https://github.com/RahnX/Intro-to-Data-Science/blob/master/problem_set_4/turnstile_data_master_with_weather.csv)
+2. [make_another_visualization.py](https://github.com/RahnX/Intro-to-Data-Science/blob/master/problem_set_4/make_another_visualization.py) [turnstile_data_master_with_weather.csv](https://github.com/RahnX/Intro-to-Data-Science/blob/master/problem_set_4/turnstile_data_master_with_weather.csv)
