@@ -52,3 +52,6 @@ $ python file_name.py
 3. [linear_regression.py](https://github.com/RahnX/Intro-to-Data-Science/blob/master/problem_set_3/linear_regression.py) [turnstile_data_master_with_weather.csv](https://github.com/RahnX/Intro-to-Data-Science/blob/master/problem_set_3/turnstile_data_master_with_weather.csv)
 4. [plotting_residuals.py](https://github.com/RahnX/Intro-to-Data-Science/blob/master/problem_set_3/plotting_residuals.py)
 5. [compute_r_squared.py](https://github.com/RahnX/Intro-to-Data-Science/blob/master/problem_set_3/compute_r_squared.py)
+
+###Lesson 4
+1. [plotting_in_python.py](https://github.com/RahnX/Intro-to-Data-Science/blob/master/lesson_4/plotting_in_python.py) [hr_year.csv](https://github.com/RahnX/Intro-to-Data-Science/blob/master/lesson_4/hr_year.csv)
