@@ -1,8 +1,6 @@
 from pandas import *
 from ggplot import *
 
-import pandas
-
 def lineplot(hr_year_csv):
 	# A csv file will be passed in as an argument which
 	# contains two columns -- 'HR' (the number of homerun hits)
