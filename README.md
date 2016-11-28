@@ -1,4 +1,4 @@
-[Udacity UD359: Intro to Data Science](https://www.udacity.com/course/intro-to-data-science--ud359).
+[Udacity UD 359: Intro to Data Science](https://www.udacity.com/course/intro-to-data-science--ud359).
 
 ###Usage
 	$ python file_name.py
